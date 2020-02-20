@@ -6,7 +6,7 @@
  *
  * GPMC cs3----FPGA  A[1-10]  D[0-15]
  ***************************************************************************/
-#include "SinorockFpga.h"
+#include "SinorockFpga.h"8999
 #include <linux/clk.h>
 #include <plat/clock.h>
 #include <linux/module.h>
